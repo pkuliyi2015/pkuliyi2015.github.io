@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "Guojie Song / Academic Page"
+title                    : "Yi Li / Academic Page"
 title_separator          : "-"
-name                     : &name "宋国杰"
+name                     : &name "李熠"
 description              : &description "个人主页"
 url                      : https://pkuliyi2015.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "宋国杰"
+  name             : "李熠"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "北京大学"
